@@ -1,9 +1,8 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.deo4SV06W8DJAxa1f5u_tQHaCR&pid=Api&P=0)](https://Vikash-Kumar001.io)
- 
-<h1 align="center">Hi 👋, I'm [ Vikash Kumar ](https://Vikash-Kumar001)</h1>
-
+[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.deo4SV06W8DJAxa1f5u_tQHaCR&pid=Api&P=0)](https://Vikash-Kumar001.io
+)
+<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
-<img align="right" alt="Coding" width="400" src ="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0/"> 
+<img align="right" alt="Coding" width="400" scr="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0/">(https://Vikash-Kumar001)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-kumar001&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-kumar001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vikash_ash_001" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_ash_001?logo=twitter&style=for-the-badge" alt="vikash_ash_001" /></a> </p>
