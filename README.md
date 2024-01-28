@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikashkumarsudhi8527@gmail.com**
 
-- ⚡ Fun fact **I think I'm Cool😎**
+- ⚡ Fun fact **I think I'm Lazy 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
