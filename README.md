@@ -25,7 +25,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **advanced system design**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **vikashkumarsudhi8527@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant solutions**
 
 ---
@@ -118,12 +118,15 @@
 
 <div align="center">
   
-  <a href="https://github.com/Vikash-Kumar001/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash-Kumar001&repo=project1&theme=tokyonight" alt="Project 1" />
+  <a href="https://starex-hub.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash-Kumar001&repo=starex-hub&theme=tokyonight" alt="StarEx Hub" />
   </a>
   <a href="https://github.com/Vikash-Kumar001/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash-Kumar001&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
+  
+  ### 🚀 [StarEx Hub](https://starex-hub.onrender.com/) - Live Project
+  **A comprehensive web application showcasing modern development practices**
   
 </div>
 
@@ -133,10 +136,11 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vikash-kumar-2068b9219/))
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-handle](https://x.com/vikash_001))
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](**https://instagram.com/your-handle**https://www.instagram.com/its_vipoo/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:your-email@gmail.com](https://mail.google.com/mail/u/0/#inbox))
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-2068b9219/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vikash_001)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_vipoo/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://starex-hub.onrender.com/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumarsudhi8527@gmail.com)
   
 </div>
 
