@@ -6,7 +6,7 @@
   
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+Vikash();+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+the+future%2C+one+line+at+a+time;AI+%E2%9C%95+Innovation+%E2%9C%95+Clean+Code)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+Vikash();+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+the+future;AI+%E2%9C%95+Innovation+%E2%9C%95+Clean+Code)](https://git.io/typing-svg)
   
   <br/>
   
